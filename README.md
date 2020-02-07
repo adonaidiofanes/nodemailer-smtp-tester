@@ -1,7 +1,7 @@
 # NODE MAILER SMTP TESTER
 ## (pt-br version)
 
-Uma simples ferramenta para testar se o SMTP está funcionando no servidor.
+Uma ferramenta simples que te ajuda a como testar o funcionamento de SMTP em um servidor [Node.js](https://nodejs.org/).
 
 ## Requisitos
 1. node (>8.9.4)
